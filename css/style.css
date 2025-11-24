@@ -1,0 +1,51 @@
+body {
+background: #fafafa
+color:black;
+font-family: "Roboto Slab", serif;
+font-weight: 300;
+}
+
+section, header {
+    width: 80%;
+    max-width: 900px;
+    margin: auto;}
+    
+section, header {
+    margin-bottom: 5rem;
+}
+
+header h1,  h2, blockquote { 
+    font-family: "Roboto Slab", serif;
+    color: #0A7900;
+}
+
+header h1 {
+    font-size: 7.451rem;
+}
+
+h2 {
+    font-size: 1.6;
+}
+header h2 {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  blockquote {
+    font-size: 1.562rem;
+    font-style:oblique
+    hanging punctuation: first;
+    text-indent: -0.6rem;
+  } 
+
